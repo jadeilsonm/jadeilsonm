@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jadeilson</h1>
-<h3 align="center">Sou um apaixonado por tecnologia e inovação, desde meus 14 anos tenho essa paixão por querer entender como as coisas funcionam no mundo da computação, foi então que em outubro do ano de 2021 ingressei na TRYBE com o intuito de aprender as tecnologias usadas no mercado de trabalho.</h3>
+<h3 align="center">Sou um apaixonado por tecnologia e inovação, desde meus 14 anos tenho essa paixão por querer entender como as coisas funcionam no mundo da computação.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jadeilsonm&label=Profile%20views&color=aa960a&style=flat" alt="jadeilsonm" /> </p>
 
-- 🔭 I’m currently working on [Cipa](https://github.com/Andrielly091/cipa/wiki/Cipa)
-
-- 🌱 I’m currently learning **Express, Spring Boot, React Native**
+- 🌱 I’m currently learning **C#, .NET**
 
 - 📫 How to reach me **jadeilsonm17@gmail.com**
 
