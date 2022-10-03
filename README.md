@@ -13,7 +13,7 @@ Estou desenvolvendo projetos com:
 <br>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/franklinrms/">
+  <a href="https://www.linkedin.com/in/jadeilson-martinho/">
     <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,redux,jest,git,python,java,docker,nodejs,mysql,mongodb&theme=dark" />
   </a>
 </div>
