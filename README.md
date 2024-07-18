@@ -1,6 +1,6 @@
 ## Olá, Eu sou o Jadeilson <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="20em">
 
- <img align="right" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jadeilsonm&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
+ <img align="right" alt="GitHub Stats" src="https://www.githubwrapped.io/jadeilsonm"/>
 
 <br>
 Eu sou uma pessoa apaixonada por tecnologia e inovação desde a adolescência. Desde os meus 14 anos, tenho me dedicado a entender como as coisas funcionam e como elas podem ser melhoradas através do uso de software. Minha paixão por tecnologia é movida pela curiosidade e pela vontade de solucionar problemas cotidianos de forma mais eficiente e inteligente.
