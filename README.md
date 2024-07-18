@@ -18,9 +18,53 @@ Estou desenvolvendo projetos com:
 <br>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/jadeilson-martinho/">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,redux,jest,git,dotnet,python,java,docker,nodejs,mysql,mongodb&theme=dark" />
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
+    <img src="https://skillicons.dev/icons?i=js&theme=dark" />
   </a>
+ <a href="https://www.typescriptlang.org/">
+    <img src="https://skillicons.dev/icons?i=ts&theme=dark" />
+  </a>
+ <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
+    <img src="https://skillicons.dev/icons?i=html&theme=dark" />
+  </a>
+ <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
+    <img src="https://skillicons.dev/icons?i=css&theme=dark" />
+  </a>
+ <a href="https://react.dev/">
+    <img src="https://skillicons.dev/icons?i=react&theme=dark" />
+  </a>
+ <a href="https://redux.js.org/">
+    <img src="https://skillicons.dev/icons?i=redux&theme=dark" />
+  </a>
+ <a href="https://jestjs.io/pt-BR/">
+    <img src="https://skillicons.dev/icons?i=jest&theme=dark" />
+  </a>
+ <a href="https://git-scm.com/">
+    <img src="https://skillicons.dev/icons?i=git&theme=dark" />
+  </a>
+ <a href="https://dotnet.microsoft.com/pt-br/">
+    <img src="https://skillicons.dev/icons?i=dotnet&theme=dark" />
+  </a>
+ <a href="https://www.python.org/">
+    <img src="https://skillicons.dev/icons?i=python&theme=dark" />
+  </a>
+ <a href="https://www.java.com/pt-BR/">
+    <img src="https://skillicons.dev/icons?i=java&theme=dark" />
+  </a>
+ <a href="https://www.docker.com/">
+    <img src="https://skillicons.dev/icons?i=docker&theme=dark" />
+  </a>
+ <a href="https://nodejs.org/pt">
+    <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" />
+  </a>
+ <a href="https://www.mysql.com/">
+    <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
+  </a>
+ v
+ <a href="https://www.mongodb.com/">
+    <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" />
+  </a>
+ 
 </div>
 
 <br>
