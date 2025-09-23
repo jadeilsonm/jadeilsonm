@@ -1,83 +1,24 @@
-## Olá, Eu sou o Jadeilson <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="20em">
+<h1 align="center">Hi 👋, I'm Jadeilson</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jadeilsonm)](https://www.githubwrapped.io/jadeilsonm)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jadeilsonm&label=Profile%20views&color=0e75b6&style=flat" alt="jadeilsonm" /> </p>
 
-<br>
-Eu sou uma pessoa apaixonada por tecnologia e inovação desde a adolescência. Desde os meus 14 anos, tenho me dedicado a entender como as coisas funcionam e como elas podem ser melhoradas através do uso de software. Minha paixão por tecnologia é movida pela curiosidade e pela vontade de solucionar problemas cotidianos de forma mais eficiente e inteligente.
-<br>
+- 🔭 I’m currently working on **Hits/Claro**
 
-Com minha paixão por tecnologia, tenho me mantido atualizado sobre as últimas tendências e avanços na área, buscando sempre aprender mais e me aprimorar. Sou um curioso nato, sempre disposto a experimentar e testar novas tecnologias e ferramentas, buscando entender como elas funcionam e como podem ser aplicadas em projetos práticos.
-<br>
-Minha habilidade em programação e desenvolvimento de software tem permitido que eu crie soluções criativas e eficientes para os problemas que encontro no dia a dia, mostrando minha capacidade de inovar e pensar fora da caixa. Com minha paixão pela tecnologia e inovação, acredito que terei um futuro brilhante na área, contribuindo para o avanço da sociedade através do uso inteligente e criativo da tecnologia.
+- 🌱 I’m currently learning **LLMs and Data Science**
 
-<br>
-<br>
+- 📫 How to reach me **jadeilsonm17@gmail.com**
 
-Estou desenvolvendo projetos com:
+- 📄 Know about my experiences [I worked on the fraud analysis and detection project within Banco XP, and I also worked on BTG's registration and onboarding system as a GFT consultant.](I worked on the fraud analysis and detection project within Banco XP, and I also worked on BTG's registration and onboarding system as a GFT consultant.)
 
-<br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/jadeilsonm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jadeilsonm" height="30" width="40" /></a>
+<a href="https://instagram.com/jadeilsonmartinho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jadeilsonmartinho" height="30" width="40" /></a>
+<a href="https://discord.gg/_juniiior" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="_juniiior" height="30" width="40" /></a>
+</p>
 
-<div align="center">
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
-    <img src="https://skillicons.dev/icons?i=js&theme=dark" />
-  </a>
- <a href="https://www.typescriptlang.org/">
-    <img src="https://skillicons.dev/icons?i=ts&theme=dark" />
-  </a>
- <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
-    <img src="https://skillicons.dev/icons?i=html&theme=dark" />
-  </a>
- <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
-    <img src="https://skillicons.dev/icons?i=css&theme=dark" />
-  </a>
- <a href="https://react.dev/">
-    <img src="https://skillicons.dev/icons?i=react&theme=dark" />
-  </a>
- <a href="https://redux.js.org/">
-    <img src="https://skillicons.dev/icons?i=redux&theme=dark" />
-  </a>
- <a href="https://jestjs.io/pt-BR/">
-    <img src="https://skillicons.dev/icons?i=jest&theme=dark" />
-  </a>
- <a href="https://git-scm.com/">
-    <img src="https://skillicons.dev/icons?i=git&theme=dark" />
-  </a>
- <a href="https://dotnet.microsoft.com/pt-br/">
-    <img src="https://skillicons.dev/icons?i=dotnet&theme=dark" />
-  </a>
- <a href="https://www.python.org/">
-    <img src="https://skillicons.dev/icons?i=python&theme=dark" />
-  </a>
- <a href="https://www.java.com/pt-BR/">
-    <img src="https://skillicons.dev/icons?i=java&theme=dark" />
-  </a>
- <a href="https://www.docker.com/">
-    <img src="https://skillicons.dev/icons?i=docker&theme=dark" />
-  </a>
- <a href="https://nodejs.org/pt">
-    <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" />
-  </a>
- <a href="https://www.mysql.com/">
-    <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
-  </a>
- v
- <a href="https://www.mongodb.com/">
-    <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" />
-  </a>
- 
-</div>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-<br>
-
-Se quiser conversar sobre tecnologia você pode me encontrar nos links abaixo:
-
-<div>
-  <a href="https://www.linkedin.com/in/jadeilson-martinho/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%23181717.svg?style=for-the-badge&logo=linkedin&logoColor=1E6BE1&color=0D1117"></a> 
-  <a href="mailto:jadeilsonm17@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-%23181717?style=for-the-badge&logo=microsoft-outlook&logoColor=1E6BE1&color=0D1117"></a> 
-</div>
-
-<div align="center">
-    
-  ![snake gif](https://github.com/jadeilsonm/jadeilsonm/blob/output/github-contribution-grid-snake.svg)
-
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jadeilsonm&show_icons=true&locale=en" alt="jadeilsonm" /></p>
